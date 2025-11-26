@@ -1,21 +1,64 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23775
-Fork on GitHub
-8144
+# Hi there, I'm Sruthi! 👋
+### 🚀 Test Automation Engineer pivoting to DevOps & Cloud
 
-back to edit
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME-HERE/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sruthi.nagari93@gmail.com)
 
-copy-markdown
+---
 
-download markdown
+### 👩‍💻 About Me
 
-download backup
+I am a **Verification & Validation Engineer** with **7+ years of international experience** in the Automotive and Medical sectors. I specialize in systematic problem-solving, HIL testing, and system validation.
+
+Currently, I am **transitioning into DevOps**, bridging the gap between rigorous testing and modern cloud infrastructure.
+
+* 🔭 **I’m currently working on:** Building robust **CI/CD pipelines** using Jenkins & GitHub Actions.
+* 🌱 **I’m currently learning:** Mastering **AWS Cloud Architecture** and **Containerization**.
+* 💬 **Ask me about:** Python, HIL Testing, Docker, and Automated Verification.
+* ⚡ **Fun fact:** I am fluent in English and have conversational proficiency in German! 🇩🇪
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+**Programming & Scripting**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Testing & Domain Tools**
+<p>
+  <img src="https://img.shields.io/badge/CANoe-Vector-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISTQB-Certified-green?style=for-the-badge" />
+</p>
+
+---
+
+### 🏆 Certifications
+
+* **ISTQB** International Software Testing Qualifications Board
+* **AWS Cloud Quest:** Solutions Architect & Cloud Practitioner
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME-HERE&show_icons=true&theme=radical" alt="Sruthi's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME-HERE&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 preview
 <h1 align="center">Hi 👋, I'm Sruthi Nagari Gurumoorthy</h1>
