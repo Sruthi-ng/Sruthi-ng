@@ -1,4 +1,4 @@
-# Hi there, I'm Sruthi! 👋
+
 <h1 align="center">Hi 👋, I'm Sruthi Nagari Gurumoorthy</h1>
 ### 🚀 Test Automation Engineer pivoting to DevOps & Cloud
 
