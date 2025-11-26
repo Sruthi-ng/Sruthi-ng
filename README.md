@@ -1,4 +1,5 @@
 # Hi there, I'm Sruthi! 👋
+<h1 align="center">Hi 👋, I'm Sruthi Nagari Gurumoorthy</h1>
 ### 🚀 Test Automation Engineer pivoting to DevOps & Cloud
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME-HERE/)
@@ -60,9 +61,6 @@ Currently, I am **transitioning into DevOps**, bridging the gap between rigorous
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME-HERE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-preview
-<h1 align="center">Hi 👋, I'm Sruthi Nagari Gurumoorthy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sruthi-ng&label=Profile%20views&color=0e75b6&style=flat" alt="sruthi-ng" /> </p>
 
